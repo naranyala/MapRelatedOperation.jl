@@ -9,7 +9,7 @@ backlog is maintained in [TODOS.md](TODOS.md).
 ## Install
 
 ```julia
-pkg> add "https://github.com/your-org/MapRelatedOperation.jl"
+pkg> add "https://github.com/naranyala/MapRelatedOperation.jl"
 ```
 
 ## Quick start
